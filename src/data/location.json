@@ -1,1 +1,119 @@
-{"address":"2800 Northeast 16th Avenue, Wilton Manors, FL, USA","geoCode":{"lat":26.1625044,"lng":-80.1262402},"mapImageUrl":"https://storage.googleapis.com/hostrapp_public/BlmK2BhX1kM1icOUMWzXYR8wQUO2/villa/map.png","googleMapsUrl":"","nearbyCategories":[{"category":"Dining","place_type":"restaurant","description":"Wilton Manors offers a diverse culinary scene within walking distance. Enjoy upscale French cuisine at La Crepe Bistro (0.4 miles), savor authentic Italian flavors at Louie Bossi Ristorante (0.6 miles), or indulge in modern American fare at The Blue Moon (0.7 miles).","notable_places":["La Crepe Bistro","Louie Bossi Ristorante","The Blue Moon"],"image_prompt":"A photorealistic image of a charming outdoor patio at a restaurant in Wilton Manors, Florida, with fairy lights and lush greenery.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-mM4P98I7mgukdQjy7vvn6CS1.png?st=2025-02-02T18%3A26%3A35Z&se=2025-02-02T20%3A26%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A42%3A45Z&ske=2025-02-03T00%3A42%3A45Z&sks=b&skv=2024-08-04&sig=bEYHV/fTy3zM2AYOxViwoJmISXkf3eZ6NPaeJzMx6Wg%3D"},{"category":"Coffee","place_type":"cafe","description":"Start your day with a caffeine fix from local cafes like The Grind (0.3 miles), offering specialty coffee and pastries, or Crema Coffee & Tea (0.5 miles), known for its cozy atmosphere and unique blends.","notable_places":["The Grind","Crema Coffee & Tea"],"image_prompt":"A photorealistic image of a modern cafe in Wilton Manors, Florida, with exposed brick walls, comfortable seating, and a variety of coffee drinks on display.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-TOJQld49ZcUwttrLtPG6nCfZ.png?st=2025-02-02T18%3A26%3A47Z&se=2025-02-02T20%3A26%3A47Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A43%3A14Z&ske=2025-02-03T00%3A43%3A14Z&sks=b&skv=2024-08-04&sig=GAUF5PbNtruDgT5etgTSkbPPB%2Bbd2h9QsjaDV/zzslQ%3D"},{"category":"Attractions","place_type":"tourist_attraction","description":"Immerse yourself in the vibrant culture of Wilton Manors. Explore the Stonewall National Museum & Archives (0.8 miles), dedicated to LGBTQ+ history, or visit the scenic Colohatchee Park (0.9 miles), perfect for picnics and nature walks.","notable_places":["Stonewall National Museum & Archives","Colohatchee Park"],"image_prompt":"A photorealistic image of the Stonewall National Museum & Archives in Wilton Manors, Florida, with a rainbow flag prominently displayed.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-h9b3bKpQl7RXi0tJOUq8Hwoo.png?st=2025-02-02T18%3A27%3A05Z&se=2025-02-02T20%3A27%3A05Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A34%3A35Z&ske=2025-02-03T00%3A34%3A35Z&sks=b&skv=2024-08-04&sig=fGWOsgn9tFwOAnO/weVHPYoQWvk4jdaf90OZGgbGFsY%3D"},{"category":"Activities","place_type":"amusement_park","description":"Embark on thrilling adventures at Xtreme Action Park (1.1 miles), featuring go-karts, mini-golf, and laser tag. For a unique experience, visit the Escape Room Fort Lauderdale (1.2 miles) and test your problem-solving skills.","notable_places":["Xtreme Action Park","Escape Room Fort Lauderdale"],"image_prompt":"A photorealistic image of a group of people having fun at Xtreme Action Park in Wilton Manors, Florida, riding go-karts and playing mini-golf.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-UUfxW5YsMcTk8zJiPMS4tDdP.png?st=2025-02-02T18%3A27%3A19Z&se=2025-02-02T20%3A27%3A19Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A30%3A27Z&ske=2025-02-03T00%3A30%3A27Z&sks=b&skv=2024-08-04&sig=QPgutjqTO68yzW8mhi46xnRI3gNEmDunCtterRuv5i0%3D"},{"category":"Recreational","place_type":"park","description":"Relax and rejuvenate at Hugh Taylor Birch State Park (1.3 miles), offering stunning natural landscapes, hiking trails, and kayaking opportunities. For a more urban experience, visit Wilton Manors' Village Green (0.5 miles), ideal for leisurely strolls and people-watching.","notable_places":["Hugh Taylor Birch State Park","Wilton Manors' Village Green"],"image_prompt":"A photorealistic image of a couple enjoying a picnic at Hugh Taylor Birch State Park in Wilton Manors, Florida, with a view of the Intracoastal Waterway.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-PzVi25nJWGJcsXXRVp9s91wD.png?st=2025-02-02T18%3A27%3A33Z&se=2025-02-02T20%3A27%3A33Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T01%3A02%3A47Z&ske=2025-02-03T01%3A02%3A47Z&sks=b&skv=2024-08-04&sig=HHMPyAhgmbL/c4YfvloVn9pOOe8kHaxodstiWtdo7EY%3D"},{"category":"Shopping","place_type":"shopping_mall","description":"Treat yourself to a shopping spree at The Galleria at Fort Lauderdale (1.5 miles), a renowned mall with high-end boutiques and department stores. For unique finds and local crafts, explore the Wilton Manors Antique Market (0.7 miles).","notable_places":["The Galleria at Fort Lauderdale","Wilton Manors Antique Market"],"image_prompt":"A photorealistic image of the interior of The Galleria at Fort Lauderdale, Florida, showcasing luxury brands and a stylish atmosphere.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-8yCN5E2jmvVUjIQWk2DOXn6z.png?st=2025-02-02T18%3A27%3A44Z&se=2025-02-02T20%3A27%3A44Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A31%3A06Z&ske=2025-02-03T00%3A31%3A06Z&sks=b&skv=2024-08-04&sig=dhAKeQm8m1iYIeVLOhpSOf%2BiERkokPGThzeE%2BjsEc98%3D"},{"category":"Convenience","place_type":"grocery_or_supermarket","description":"Stock up on essentials and groceries at Publix Super Market (0.4 miles), conveniently located within walking distance. For a wider selection, visit Whole Foods Market (1.0 miles).","notable_places":["Publix Super Market","Whole Foods Market"],"image_prompt":"A photorealistic image of a well-stocked grocery store in Wilton Manors, Florida, with fresh produce, a variety of packaged goods, and friendly staff.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-e23q54e5awvaWgzct2Gjk6xk.png?st=2025-02-02T18%3A27%3A57Z&se=2025-02-02T20%3A27%3A57Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A42%3A08Z&ske=2025-02-03T00%3A42%3A08Z&sks=b&skv=2024-08-04&sig=BxHUSvf%2Balv43y2PVGZaKTktqeyveY/uaeylUMMaOfM%3D"},{"category":"Transportation Hubs","place_type":"airport","description":"Fort Lauderdale-Hollywood International Airport (FLL) is situated approximately 8 miles away, offering convenient domestic and international flights. For train services, the nearest station is Fort Lauderdale Amtrak Station (11 miles away).","notable_places":["Fort Lauderdale-Hollywood International Airport (FLL)","Fort Lauderdale Amtrak Station"],"image_prompt":"A photorealistic image of the Fort Lauderdale-Hollywood International Airport (FLL) terminal, with airplanes taking off and landing.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-1wQyiRMfKUokZgvuloOE6ulR.png?st=2025-02-02T18%3A28%3A12Z&se=2025-02-02T20%3A28%3A12Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A26%3A48Z&ske=2025-02-03T00%3A26%3A48Z&sks=b&skv=2024-08-04&sig=34t3/jPW8jdjuU0LifrfMTRvv2vC6gcSBYcof2Sg9pc%3D"},{"category":"Other Services","place_type":"spa","description":"Indulge in pampering treatments at The Spa at The Westin Fort Lauderdale (1.4 miles), offering a range of massages, facials, and body treatments. For a more holistic approach, visit The Yoga Studio of Wilton Manors (0.6 miles), providing yoga classes and meditation sessions.","notable_places":["The Spa at The Westin Fort Lauderdale","The Yoga Studio of Wilton Manors"],"image_prompt":"A photorealistic image of a luxurious spa treatment room at The Spa at The Westin Fort Lauderdale, Florida, with candles, soft lighting, and a serene atmosphere.","imageUrl":"https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-RL7aE2eEJuwXgc3d04ALH1fu.png?st=2025-02-02T18%3A28%3A26Z&se=2025-02-02T20%3A28%3A26Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-02-02T00%3A41%3A45Z&ske=2025-02-03T00%3A41%3A45Z&sks=b&skv=2024-08-04&sig=jXKbRvgbEubhZWfp72NQR%2BWVoImo8RFkOkKzdcfWqUM%3D"}]}
+{
+  "address": "1600 Pennsylvania Avenue NW, Washington, DC 20500, United States",
+  "geoCode": {
+    "lat": 38.8974949,
+    "lng": -77.0360718
+  },
+  "mapImageUrl": "https://storage.googleapis.com/hostrapp_public/BlmK2BhX1kM1icOUMWzXYR8wQUO2/white-house/map.png",
+  "googleMapsUrl": "",
+  "nearbyCategories": [
+    {
+      "category": "Fine Dining Restaurants near the White House",
+      "place_type": "restaurant",
+      "description": "Upscale dining experiences within a short walk or drive, ideal for a special occasion. Expect travel times of 5-15 minutes. Try 'The Old Ebbitt Grill' or 'Rasika'.",
+      "notable_places": [
+        "The Old Ebbitt Grill",
+        "Rasika",
+        "Fiola"
+      ],
+      "image_prompt": "Photorealistic image of elegantly set tables in a brightly lit, upscale restaurant near the White House, featuring crystal glasses, fine china, and servers in formal attire.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-egekrMANhefmpBmY1JDWPh2b.png?st=2025-08-17T21%3A58%3A35Z&se=2025-08-17T23%3A58%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T08%3A53%3A31Z&ske=2025-08-18T08%3A53%3A31Z&sks=b&skv=2024-08-04&sig=GUBe93HNuasNnvvGVx9PI7dbfrzWPZDYQw93o0dz5KI%3D"
+    },
+    {
+      "category": "Casual Coffee Shops and Cafes in Downtown DC",
+      "place_type": "cafe",
+      "description": "Relaxing coffee shops and cafes for a quick breakfast or afternoon pick-me-up. Many are within a 5-10 minute walk. Consider 'Bluestone Lane' or 'Compass Coffee'.",
+      "notable_places": [
+        "Bluestone Lane",
+        "Compass Coffee",
+        "Starbucks"
+      ],
+      "image_prompt": "Photorealistic image of a bustling cafe near the White House, showing people working on laptops, sipping coffee, and engaging in conversation, with pastries displayed on a counter.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-MVfxMeODaONmm0AQAUXsVuoW.png?st=2025-08-17T21%3A58%3A48Z&se=2025-08-17T23%3A58%3A48Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T13%3A18%3A48Z&ske=2025-08-18T13%3A18%3A48Z&sks=b&skv=2024-08-04&sig=Tk80Cjs9ssIvRlo6hiEUMBIcjtrXg%2B4OPpFFpz5yoK0%3D"
+    },
+    {
+      "category": "Iconic Tourist Attractions in Washington D.C.",
+      "place_type": "tourist_attraction",
+      "description": "World-renowned monuments and museums, all within easy walking distance. Visit the 'National Mall' or the 'Washington Monument' within minutes.",
+      "notable_places": [
+        "The White House",
+        "National Mall",
+        "Washington Monument"
+      ],
+      "image_prompt": "Photorealistic image of the National Mall in Washington D.C., showcasing the Washington Monument, reflecting pool, and the U.S. Capitol Building in the background under a clear blue sky.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-HuL5kL7UjCB99PcTuoIyLq4c.png?st=2025-08-17T21%3A59%3A01Z&se=2025-08-17T23%3A59%3A01Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=b1a0ae1f-618f-4548-84fd-8b16cacd5485&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T03%3A44%3A59Z&ske=2025-08-18T03%3A44%3A59Z&sks=b&skv=2024-08-04&sig=0X9UZ9YRmAiSawoIzDsJYnZYdjr/Bnjz40CGcZI9Q/4%3D"
+    },
+    {
+      "category": "Outdoor Recreational Activities & Parks",
+      "place_type": "park",
+      "description": "Green spaces for walking, jogging, or relaxing outdoors, easily accessible. Explore 'Lafayette Square' or the 'Ellipse' within a few minutes walk.",
+      "notable_places": [
+        "Lafayette Square",
+        "The Ellipse",
+        "Constitution Gardens"
+      ],
+      "image_prompt": "Photorealistic image of people relaxing and enjoying the sunshine in Lafayette Square, with the White House visible in the background, featuring lush green grass and blooming flowers.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-nOFQ1E0x65mBfsOlNsJWFFUi.png?st=2025-08-17T21%3A59%3A12Z&se=2025-08-17T23%3A59%3A12Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=f1dafa11-a0c2-4092-91d4-10981fbda051&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T08%3A09%3A55Z&ske=2025-08-18T08%3A09%3A55Z&sks=b&skv=2024-08-04&sig=Cjx35GiKSxic96Vu1Asfa%2B%2BKKzFIQNKUh5mQL6D9gnk%3D"
+    },
+    {
+      "category": "Shopping Destinations near the White House",
+      "place_type": "shopping_mall",
+      "description": "Variety of shops ranging from souvenirs to high-end retail. 'CityCenterDC' is a 10-15 minute walk or short drive. Also consider smaller boutiques nearby.",
+      "notable_places": [
+        "CityCenterDC",
+        "Penn Quarter",
+        "Mazza Gallerie"
+      ],
+      "image_prompt": "Photorealistic image of the CityCenterDC shopping district, showcasing modern architecture, upscale boutiques, and pedestrians strolling along the sidewalks with shopping bags.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-9j2AEZU8QTg9eF28FKbgcqJj.png?st=2025-08-17T21%3A59%3A27Z&se=2025-08-17T23%3A59%3A27Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=f1dafa11-a0c2-4092-91d4-10981fbda051&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T09%3A38%3A13Z&ske=2025-08-18T09%3A38%3A13Z&sks=b&skv=2024-08-04&sig=0K8GxeJqTuUfbeHsoLhiwfr/B5Umvt/dqRXIt1dwy28%3D"
+    },
+    {
+      "category": "Convenience Stores for Essentials",
+      "place_type": "convenience_store",
+      "description": "Quick stops for groceries, snacks, and everyday items, usually within a 5-10 minute walk. Look for 'CVS' or local markets.",
+      "notable_places": [
+        "CVS",
+        "7-Eleven",
+        "Safeway"
+      ],
+      "image_prompt": "Photorealistic image of a brightly lit convenience store interior, showcasing shelves stocked with snacks, drinks, and basic household items, with customers browsing the aisles.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-QpFKMobe4SlYgCaBodwX70bm.png?st=2025-08-17T21%3A59%3A39Z&se=2025-08-17T23%3A59%3A39Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=ed3ea2f9-5e38-44be-9a1b-7c1e65e4d54f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T08%3A55%3A53Z&ske=2025-08-18T08%3A55%3A53Z&sks=b&skv=2024-08-04&sig=hE634cPA00RSEDrjo7oScCuQx9m%2BxogcFfneJ5FXLpQ%3D"
+    },
+    {
+      "category": "Transportation Hubs and Public Transit Options",
+      "place_type": "transit_station",
+      "description": "Easy access to transportation for exploring the city and beyond. The 'Metro Center' station is a major hub within a short walk or ride. Also consider 'Union Station' for train travel.",
+      "notable_places": [
+        "Metro Center Station",
+        "Farragut West Station",
+        "Union Station"
+      ],
+      "image_prompt": "Photorealistic image of the Metro Center subway station platform, showing commuters waiting for a train, with clear signage and a clean, modern design.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-79ZXJ231wDBMSjpQ0YGZwGFK.png?st=2025-08-17T21%3A59%3A51Z&se=2025-08-17T23%3A59%3A51Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T09%3A47%3A45Z&ske=2025-08-18T09%3A47%3A45Z&sks=b&skv=2024-08-04&sig=bRRB18VlJIrwyn9tc1MRLYT5hrxxHzbONkoOWv3ACc8%3D"
+    },
+    {
+      "category": "Vacation Rental & Travel Services",
+      "place_type": "travel_agency",
+      "description": "Tour operators and travel agencies nearby that can assist in planning your vacation. Within a 5-15 minute driving distance. Check for tour operators in 'Penn Quarter'.",
+      "notable_places": [
+        "DC Insider Tours",
+        "USA Guided Tours DC",
+        "Viator"
+      ],
+      "image_prompt": "Photorealistic image of a travel agency storefront, displaying brochures and posters of Washington D.C. landmarks, with friendly travel agents assisting customers inside.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-JywxRWwvtAPIUyCX55krmKZQ.png?st=2025-08-17T22%3A00%3A02Z&se=2025-08-18T00%3A00%3A02Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=cc612491-d948-4d2e-9821-2683df3719f5&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T15%3A58%3A41Z&ske=2025-08-18T15%3A58%3A41Z&sks=b&skv=2024-08-04&sig=Bxnsh7LUEk5U2g/OYf7FOjOxF8KMJye0KxSEJB6X5NM%3D"
+    },
+    {
+      "category": "Historical Landmarks and Museums",
+      "place_type": "museum",
+      "description": "Rich historical sites offering a glimpse into America's past. The 'National Museum of American History' and the 'National Archives Museum' are nearby.",
+      "notable_places": [
+        "National Museum of American History",
+        "National Archives Museum",
+        "National Air and Space Museum"
+      ],
+      "image_prompt": "Photorealistic image of the National Archives Museum, showing the building's grand facade and the iconic American flag flying overhead, with visitors entering and exiting the building.",
+      "imageUrl": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-mZ6lijKy7jBlPtkrsrp7fcyl/user-cUN1z1n3ziDzkoNWF0Y97bNo/img-FI6LCCzag5nag8zjswIFvW0F.png?st=2025-08-17T22%3A00%3A15Z&se=2025-08-18T00%3A00%3A15Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=77e5a8ec-6bd1-4477-8afc-16703a64f029&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-17T17%3A38%3A35Z&ske=2025-08-18T17%3A38%3A35Z&sks=b&skv=2024-08-04&sig=lvFQZU6mgFrcsQiZSIToOiCHHLrSWWholFLiVQ1kEKg%3D"
+    }
+  ]
+}
